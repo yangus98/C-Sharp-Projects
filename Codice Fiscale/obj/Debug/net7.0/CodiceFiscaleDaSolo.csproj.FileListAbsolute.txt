@@ -1,0 +1,15 @@
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\bin\Debug\net7.0\CodiceFiscaleDaSolo.exe
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\bin\Debug\net7.0\CodiceFiscaleDaSolo.deps.json
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\bin\Debug\net7.0\CodiceFiscaleDaSolo.runtimeconfig.json
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\bin\Debug\net7.0\CodiceFiscaleDaSolo.dll
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\bin\Debug\net7.0\CodiceFiscaleDaSolo.pdb
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\obj\Debug\net7.0\CodiceFiscaleDaSolo.csproj.AssemblyReference.cache
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\obj\Debug\net7.0\CodiceFiscaleDaSolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\obj\Debug\net7.0\CodiceFiscaleDaSolo.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\obj\Debug\net7.0\CodiceFiscaleDaSolo.AssemblyInfo.cs
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\obj\Debug\net7.0\CodiceFiscaleDaSolo.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\obj\Debug\net7.0\CodiceFiscaleDaSolo.dll
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\obj\Debug\net7.0\refint\CodiceFiscaleDaSolo.dll
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\obj\Debug\net7.0\CodiceFiscaleDaSolo.pdb
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\obj\Debug\net7.0\CodiceFiscaleDaSolo.genruntimeconfig.cache
+C:\Users\giuse\source\repos\CodiceFiscaleDaSolo\obj\Debug\net7.0\ref\CodiceFiscaleDaSolo.dll

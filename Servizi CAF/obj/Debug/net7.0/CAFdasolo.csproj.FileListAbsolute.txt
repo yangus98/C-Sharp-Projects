@@ -1,0 +1,15 @@
+C:\Users\giuse\source\repos\CAFdasolo\bin\Debug\net7.0\CAFdasolo.exe
+C:\Users\giuse\source\repos\CAFdasolo\bin\Debug\net7.0\CAFdasolo.deps.json
+C:\Users\giuse\source\repos\CAFdasolo\bin\Debug\net7.0\CAFdasolo.runtimeconfig.json
+C:\Users\giuse\source\repos\CAFdasolo\bin\Debug\net7.0\CAFdasolo.dll
+C:\Users\giuse\source\repos\CAFdasolo\bin\Debug\net7.0\CAFdasolo.pdb
+C:\Users\giuse\source\repos\CAFdasolo\obj\Debug\net7.0\CAFdasolo.csproj.AssemblyReference.cache
+C:\Users\giuse\source\repos\CAFdasolo\obj\Debug\net7.0\CAFdasolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuse\source\repos\CAFdasolo\obj\Debug\net7.0\CAFdasolo.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\CAFdasolo\obj\Debug\net7.0\CAFdasolo.AssemblyInfo.cs
+C:\Users\giuse\source\repos\CAFdasolo\obj\Debug\net7.0\CAFdasolo.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\CAFdasolo\obj\Debug\net7.0\CAFdasolo.dll
+C:\Users\giuse\source\repos\CAFdasolo\obj\Debug\net7.0\refint\CAFdasolo.dll
+C:\Users\giuse\source\repos\CAFdasolo\obj\Debug\net7.0\CAFdasolo.pdb
+C:\Users\giuse\source\repos\CAFdasolo\obj\Debug\net7.0\CAFdasolo.genruntimeconfig.cache
+C:\Users\giuse\source\repos\CAFdasolo\obj\Debug\net7.0\ref\CAFdasolo.dll

@@ -1,0 +1,15 @@
+C:\Users\giuse\source\repos\RainbowTheater\bin\Debug\net7.0\RainbowTheater.exe
+C:\Users\giuse\source\repos\RainbowTheater\bin\Debug\net7.0\RainbowTheater.deps.json
+C:\Users\giuse\source\repos\RainbowTheater\bin\Debug\net7.0\RainbowTheater.runtimeconfig.json
+C:\Users\giuse\source\repos\RainbowTheater\bin\Debug\net7.0\RainbowTheater.dll
+C:\Users\giuse\source\repos\RainbowTheater\bin\Debug\net7.0\RainbowTheater.pdb
+C:\Users\giuse\source\repos\RainbowTheater\obj\Debug\net7.0\RainbowTheater.csproj.AssemblyReference.cache
+C:\Users\giuse\source\repos\RainbowTheater\obj\Debug\net7.0\RainbowTheater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuse\source\repos\RainbowTheater\obj\Debug\net7.0\RainbowTheater.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\RainbowTheater\obj\Debug\net7.0\RainbowTheater.AssemblyInfo.cs
+C:\Users\giuse\source\repos\RainbowTheater\obj\Debug\net7.0\RainbowTheater.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\RainbowTheater\obj\Debug\net7.0\RainbowTheater.dll
+C:\Users\giuse\source\repos\RainbowTheater\obj\Debug\net7.0\refint\RainbowTheater.dll
+C:\Users\giuse\source\repos\RainbowTheater\obj\Debug\net7.0\RainbowTheater.pdb
+C:\Users\giuse\source\repos\RainbowTheater\obj\Debug\net7.0\RainbowTheater.genruntimeconfig.cache
+C:\Users\giuse\source\repos\RainbowTheater\obj\Debug\net7.0\ref\RainbowTheater.dll
