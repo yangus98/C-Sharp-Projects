@@ -6,7 +6,7 @@ for (int x=1; x <=3; x++)
 {
     Console.WriteLine("inserisci il PIN");
 
-    if (datiBC.controlloPin(Console.ReadLine()))
+    if (datiBC.controlloPin(Console.ReadLine()!))
     {
         Console.WriteLine("pin corretto");
         break;
@@ -26,7 +26,7 @@ do
     do
     {
         Console.WriteLine("inserisci importo");
-        classeBancomat.Prelievo = int.Parse(Console.ReadLine());
+        classeBancomat.Prelievo = int.Parse(Console.ReadLine()!);
         if (classeBancomat.maxPrev(classeBancomat.Prelievo, DatiBC.maxPrev))
         {
             if (!classeBancomat.PrelievoConto(classeBancomat.Prelievo, datiBC))
