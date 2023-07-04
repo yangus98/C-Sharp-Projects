@@ -1,0 +1,15 @@
+C:\Users\giuse\source\repos\CorsaCavalliAsync\bin\Debug\net7.0\CorsaCavalliAsync.exe
+C:\Users\giuse\source\repos\CorsaCavalliAsync\bin\Debug\net7.0\CorsaCavalliAsync.deps.json
+C:\Users\giuse\source\repos\CorsaCavalliAsync\bin\Debug\net7.0\CorsaCavalliAsync.runtimeconfig.json
+C:\Users\giuse\source\repos\CorsaCavalliAsync\bin\Debug\net7.0\CorsaCavalliAsync.dll
+C:\Users\giuse\source\repos\CorsaCavalliAsync\bin\Debug\net7.0\CorsaCavalliAsync.pdb
+C:\Users\giuse\source\repos\CorsaCavalliAsync\obj\Debug\net7.0\CorsaCavalliAsync.csproj.AssemblyReference.cache
+C:\Users\giuse\source\repos\CorsaCavalliAsync\obj\Debug\net7.0\CorsaCavalliAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuse\source\repos\CorsaCavalliAsync\obj\Debug\net7.0\CorsaCavalliAsync.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\CorsaCavalliAsync\obj\Debug\net7.0\CorsaCavalliAsync.AssemblyInfo.cs
+C:\Users\giuse\source\repos\CorsaCavalliAsync\obj\Debug\net7.0\CorsaCavalliAsync.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\CorsaCavalliAsync\obj\Debug\net7.0\CorsaCavalliAsync.dll
+C:\Users\giuse\source\repos\CorsaCavalliAsync\obj\Debug\net7.0\refint\CorsaCavalliAsync.dll
+C:\Users\giuse\source\repos\CorsaCavalliAsync\obj\Debug\net7.0\CorsaCavalliAsync.pdb
+C:\Users\giuse\source\repos\CorsaCavalliAsync\obj\Debug\net7.0\CorsaCavalliAsync.genruntimeconfig.cache
+C:\Users\giuse\source\repos\CorsaCavalliAsync\obj\Debug\net7.0\ref\CorsaCavalliAsync.dll

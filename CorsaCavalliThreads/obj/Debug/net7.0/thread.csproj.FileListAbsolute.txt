@@ -1,0 +1,15 @@
+C:\Users\giuse\source\repos\thread\bin\Debug\net7.0\thread.exe
+C:\Users\giuse\source\repos\thread\bin\Debug\net7.0\thread.deps.json
+C:\Users\giuse\source\repos\thread\bin\Debug\net7.0\thread.runtimeconfig.json
+C:\Users\giuse\source\repos\thread\bin\Debug\net7.0\thread.dll
+C:\Users\giuse\source\repos\thread\bin\Debug\net7.0\thread.pdb
+C:\Users\giuse\source\repos\thread\obj\Debug\net7.0\thread.csproj.AssemblyReference.cache
+C:\Users\giuse\source\repos\thread\obj\Debug\net7.0\thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuse\source\repos\thread\obj\Debug\net7.0\thread.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\thread\obj\Debug\net7.0\thread.AssemblyInfo.cs
+C:\Users\giuse\source\repos\thread\obj\Debug\net7.0\thread.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\thread\obj\Debug\net7.0\thread.dll
+C:\Users\giuse\source\repos\thread\obj\Debug\net7.0\refint\thread.dll
+C:\Users\giuse\source\repos\thread\obj\Debug\net7.0\thread.pdb
+C:\Users\giuse\source\repos\thread\obj\Debug\net7.0\thread.genruntimeconfig.cache
+C:\Users\giuse\source\repos\thread\obj\Debug\net7.0\ref\thread.dll

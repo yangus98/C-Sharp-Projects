@@ -1,0 +1,15 @@
+C:\Users\giuse\source\repos\Conto Bancario con scambi\bin\Debug\net7.0\Conto Bancario con scambi.exe
+C:\Users\giuse\source\repos\Conto Bancario con scambi\bin\Debug\net7.0\Conto Bancario con scambi.deps.json
+C:\Users\giuse\source\repos\Conto Bancario con scambi\bin\Debug\net7.0\Conto Bancario con scambi.runtimeconfig.json
+C:\Users\giuse\source\repos\Conto Bancario con scambi\bin\Debug\net7.0\Conto Bancario con scambi.dll
+C:\Users\giuse\source\repos\Conto Bancario con scambi\bin\Debug\net7.0\Conto Bancario con scambi.pdb
+C:\Users\giuse\source\repos\Conto Bancario con scambi\obj\Debug\net7.0\Conto Bancario con scambi.csproj.AssemblyReference.cache
+C:\Users\giuse\source\repos\Conto Bancario con scambi\obj\Debug\net7.0\Conto Bancario con scambi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuse\source\repos\Conto Bancario con scambi\obj\Debug\net7.0\Conto Bancario con scambi.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\Conto Bancario con scambi\obj\Debug\net7.0\Conto Bancario con scambi.AssemblyInfo.cs
+C:\Users\giuse\source\repos\Conto Bancario con scambi\obj\Debug\net7.0\Conto Bancario con scambi.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\Conto Bancario con scambi\obj\Debug\net7.0\Conto Bancario con scambi.dll
+C:\Users\giuse\source\repos\Conto Bancario con scambi\obj\Debug\net7.0\refint\Conto Bancario con scambi.dll
+C:\Users\giuse\source\repos\Conto Bancario con scambi\obj\Debug\net7.0\Conto Bancario con scambi.pdb
+C:\Users\giuse\source\repos\Conto Bancario con scambi\obj\Debug\net7.0\Conto Bancario con scambi.genruntimeconfig.cache
+C:\Users\giuse\source\repos\Conto Bancario con scambi\obj\Debug\net7.0\ref\Conto Bancario con scambi.dll
