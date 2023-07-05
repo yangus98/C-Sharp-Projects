@@ -8,10 +8,17 @@ using System.Threading.Tasks;
 
 namespace CorsaCavalliAsync
 {
+    delegate void DelegatoCavallo(string messaggio);
+
     internal class Cavalli
     {
         private string nome;
         private Random random;
+
+        public event DelegatoCavallo OnJob;
+        public event DelegatoCavallo OnJob2;
+        public event DelegatoCavallo EndJob;
+
         public Cavalli(string nome, Random random)
         {
             this.nome = nome;
@@ -20,14 +27,14 @@ namespace CorsaCavalliAsync
 
         public void Corsa()
         {
-            Console.WriteLine(this.nome + " sta correndo...");
+            OnJob(this.nome + " sta correndo...");
                 for (int i = 1; i <= 10; i++)
                 {
                     Thread.Sleep(this.random.Next(250, 750));
-                    Console.WriteLine(this.nome + " ha percorso il " + i + "° giro.");
+                    OnJob2(this.nome + " ha percorso il " + i + "° giro.");
                     if (i == 10)
                     {
-                        Console.WriteLine(this.nome + " ha finito la corsa.");
+                        EndJob(this.nome + " ha finito la corsa.");
                     }
                 }
         }

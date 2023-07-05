@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 namespace thread
 {
     delegate void DelegatoCavallo(string messaggio);
+
     internal class cavallo
     {
         private string _nome;
