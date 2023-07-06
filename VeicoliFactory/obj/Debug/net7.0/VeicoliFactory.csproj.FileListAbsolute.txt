@@ -1,0 +1,15 @@
+C:\Users\giuse\source\repos\VeicoliFactory\obj\Debug\net7.0\VeicoliFactory.csproj.AssemblyReference.cache
+C:\Users\giuse\source\repos\VeicoliFactory\obj\Debug\net7.0\VeicoliFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuse\source\repos\VeicoliFactory\obj\Debug\net7.0\VeicoliFactory.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\VeicoliFactory\obj\Debug\net7.0\VeicoliFactory.AssemblyInfo.cs
+C:\Users\giuse\source\repos\VeicoliFactory\obj\Debug\net7.0\VeicoliFactory.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\VeicoliFactory\bin\Debug\net7.0\VeicoliFactory.exe
+C:\Users\giuse\source\repos\VeicoliFactory\bin\Debug\net7.0\VeicoliFactory.deps.json
+C:\Users\giuse\source\repos\VeicoliFactory\bin\Debug\net7.0\VeicoliFactory.runtimeconfig.json
+C:\Users\giuse\source\repos\VeicoliFactory\bin\Debug\net7.0\VeicoliFactory.dll
+C:\Users\giuse\source\repos\VeicoliFactory\bin\Debug\net7.0\VeicoliFactory.pdb
+C:\Users\giuse\source\repos\VeicoliFactory\obj\Debug\net7.0\VeicoliFactory.dll
+C:\Users\giuse\source\repos\VeicoliFactory\obj\Debug\net7.0\refint\VeicoliFactory.dll
+C:\Users\giuse\source\repos\VeicoliFactory\obj\Debug\net7.0\VeicoliFactory.pdb
+C:\Users\giuse\source\repos\VeicoliFactory\obj\Debug\net7.0\VeicoliFactory.genruntimeconfig.cache
+C:\Users\giuse\source\repos\VeicoliFactory\obj\Debug\net7.0\ref\VeicoliFactory.dll

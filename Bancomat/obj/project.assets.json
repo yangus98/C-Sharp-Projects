@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giuse\\source\\repos\\ConsoleApp1\\Bancomat.csproj",
+      "projectUniqueName": "C:\\Users\\giuse\\OneDrive\\Desktop\\Lavoro\\C# Projects\\Bancomat\\Bancomat.csproj",
       "projectName": "Bancomat",
-      "projectPath": "C:\\Users\\giuse\\source\\repos\\ConsoleApp1\\Bancomat.csproj",
+      "projectPath": "C:\\Users\\giuse\\OneDrive\\Desktop\\Lavoro\\C# Projects\\Bancomat\\Bancomat.csproj",
       "packagesPath": "C:\\Users\\giuse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giuse\\source\\repos\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\giuse\\OneDrive\\Desktop\\Lavoro\\C# Projects\\Bancomat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giuse\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,8 @@
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {

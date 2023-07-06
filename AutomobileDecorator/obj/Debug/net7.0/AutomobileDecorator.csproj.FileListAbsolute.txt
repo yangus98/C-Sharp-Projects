@@ -1,0 +1,15 @@
+C:\Users\giuse\source\repos\AutomobileDecorator\bin\Debug\net7.0\AutomobileDecorator.exe
+C:\Users\giuse\source\repos\AutomobileDecorator\bin\Debug\net7.0\AutomobileDecorator.deps.json
+C:\Users\giuse\source\repos\AutomobileDecorator\bin\Debug\net7.0\AutomobileDecorator.runtimeconfig.json
+C:\Users\giuse\source\repos\AutomobileDecorator\bin\Debug\net7.0\AutomobileDecorator.dll
+C:\Users\giuse\source\repos\AutomobileDecorator\bin\Debug\net7.0\AutomobileDecorator.pdb
+C:\Users\giuse\source\repos\AutomobileDecorator\obj\Debug\net7.0\AutomobileDecorator.csproj.AssemblyReference.cache
+C:\Users\giuse\source\repos\AutomobileDecorator\obj\Debug\net7.0\AutomobileDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuse\source\repos\AutomobileDecorator\obj\Debug\net7.0\AutomobileDecorator.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\AutomobileDecorator\obj\Debug\net7.0\AutomobileDecorator.AssemblyInfo.cs
+C:\Users\giuse\source\repos\AutomobileDecorator\obj\Debug\net7.0\AutomobileDecorator.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\AutomobileDecorator\obj\Debug\net7.0\AutomobileDecorator.dll
+C:\Users\giuse\source\repos\AutomobileDecorator\obj\Debug\net7.0\refint\AutomobileDecorator.dll
+C:\Users\giuse\source\repos\AutomobileDecorator\obj\Debug\net7.0\AutomobileDecorator.pdb
+C:\Users\giuse\source\repos\AutomobileDecorator\obj\Debug\net7.0\AutomobileDecorator.genruntimeconfig.cache
+C:\Users\giuse\source\repos\AutomobileDecorator\obj\Debug\net7.0\ref\AutomobileDecorator.dll

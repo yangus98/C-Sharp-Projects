@@ -1,0 +1,15 @@
+C:\Users\giuse\source\repos\TwitterObserver\bin\Debug\net7.0\TwitterObserver.exe
+C:\Users\giuse\source\repos\TwitterObserver\bin\Debug\net7.0\TwitterObserver.deps.json
+C:\Users\giuse\source\repos\TwitterObserver\bin\Debug\net7.0\TwitterObserver.runtimeconfig.json
+C:\Users\giuse\source\repos\TwitterObserver\bin\Debug\net7.0\TwitterObserver.dll
+C:\Users\giuse\source\repos\TwitterObserver\bin\Debug\net7.0\TwitterObserver.pdb
+C:\Users\giuse\source\repos\TwitterObserver\obj\Debug\net7.0\TwitterObserver.csproj.AssemblyReference.cache
+C:\Users\giuse\source\repos\TwitterObserver\obj\Debug\net7.0\TwitterObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuse\source\repos\TwitterObserver\obj\Debug\net7.0\TwitterObserver.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\TwitterObserver\obj\Debug\net7.0\TwitterObserver.AssemblyInfo.cs
+C:\Users\giuse\source\repos\TwitterObserver\obj\Debug\net7.0\TwitterObserver.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\TwitterObserver\obj\Debug\net7.0\TwitterObserver.dll
+C:\Users\giuse\source\repos\TwitterObserver\obj\Debug\net7.0\refint\TwitterObserver.dll
+C:\Users\giuse\source\repos\TwitterObserver\obj\Debug\net7.0\TwitterObserver.pdb
+C:\Users\giuse\source\repos\TwitterObserver\obj\Debug\net7.0\TwitterObserver.genruntimeconfig.cache
+C:\Users\giuse\source\repos\TwitterObserver\obj\Debug\net7.0\ref\TwitterObserver.dll

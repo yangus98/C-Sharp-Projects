@@ -13,3 +13,18 @@ C:\Users\giuse\source\repos\ConsoleApp1\obj\Debug\net7.0\refint\Bancomat.dll
 C:\Users\giuse\source\repos\ConsoleApp1\obj\Debug\net7.0\Bancomat.pdb
 C:\Users\giuse\source\repos\ConsoleApp1\obj\Debug\net7.0\Bancomat.genruntimeconfig.cache
 C:\Users\giuse\source\repos\ConsoleApp1\obj\Debug\net7.0\ref\Bancomat.dll
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\bin\Debug\net7.0\Bancomat.exe
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\bin\Debug\net7.0\Bancomat.deps.json
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\bin\Debug\net7.0\Bancomat.runtimeconfig.json
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\bin\Debug\net7.0\Bancomat.dll
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\bin\Debug\net7.0\Bancomat.pdb
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\obj\Debug\net7.0\Bancomat.csproj.AssemblyReference.cache
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\obj\Debug\net7.0\Bancomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\obj\Debug\net7.0\Bancomat.AssemblyInfoInputs.cache
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\obj\Debug\net7.0\Bancomat.AssemblyInfo.cs
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\obj\Debug\net7.0\Bancomat.csproj.CoreCompileInputs.cache
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\obj\Debug\net7.0\Bancomat.dll
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\obj\Debug\net7.0\refint\Bancomat.dll
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\obj\Debug\net7.0\Bancomat.pdb
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\obj\Debug\net7.0\Bancomat.genruntimeconfig.cache
+C:\Users\giuse\OneDrive\Desktop\Lavoro\C# Projects\Bancomat\obj\Debug\net7.0\ref\Bancomat.dll
