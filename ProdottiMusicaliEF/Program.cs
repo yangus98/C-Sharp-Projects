@@ -10,18 +10,21 @@ namespace ProdottiMusicaliEF
         static string sceltaModifica, titoloModificato, artistaModificato;
         static ProdottiMusicaliContext ctx = new ProdottiMusicaliContext();
 
+        delegate void WriteLineDelegate(string message);
+
         static void Main(string[] args)
         {
+            WriteLineDelegate writeLine = Console.WriteLine;
             string scelta;
             do
             {
-                Console.WriteLine("DATABASE DELLE CANZONI");
-                Console.WriteLine();
-                Console.WriteLine("1 - Visualizza");
-                Console.WriteLine("2 - Inserisci nuova canzone");
-                Console.WriteLine("3 - Elimina canzone");
-                Console.WriteLine("4 - Modifica canzone esistente");
-                Console.WriteLine("5 - Esci");
+                writeLine("DATABASE DELLE CANZONI");
+                writeLine("");
+                writeLine("1 - Visualizza");
+                writeLine("2 - Inserisci nuova canzone");
+                writeLine("3 - Elimina canzone");
+                writeLine("4 - Modifica canzone esistente");
+                writeLine("5 - Esci");
 
                 scelta = Console.ReadLine();
 
@@ -49,25 +52,26 @@ namespace ProdottiMusicaliEF
 
         public static void Visualizza()
         {
+            WriteLineDelegate writeLine = Console.WriteLine;
             var elenco = from p in ctx.Cds select p;
             foreach (var p in elenco)
             {
-                Console.WriteLine("---------------");
-                Console.WriteLine($"id:{p.Id} - titolo:{p.Titolo} - artista:{p.Artista} - anno di pubblicazione:{p.Anno}");
-                Console.WriteLine("---------------");
-                Console.WriteLine();
+                writeLine("");
+                writeLine($"id:{p.Id} - titolo:{p.Titolo} - artista:{p.Artista} - anno di pubblicazione:{p.Anno}");
+                writeLine("");
             }
         }
 
         public static void Inserisci()
         {
             Cd cd = new Cd();
+            WriteLineDelegate writeLine = Console.WriteLine;
 
-            Console.WriteLine("Inserisci il titolo");
+            writeLine("Inserisci il titolo");
             cd.Titolo = (Console.ReadLine());
-            Console.WriteLine("Inserisci l'artista");
+            writeLine("Inserisci l'artista");
             cd.Artista = (Console.ReadLine());
-            Console.WriteLine("Inserisci l'anno di pubblicazione");
+            writeLine("Inserisci l'anno di pubblicazione");
             cd.Anno = (int.Parse(Console.ReadLine()));
 
             ctx.Cds.Add(cd);
@@ -76,39 +80,41 @@ namespace ProdottiMusicaliEF
 
         public static void Elimina()
         {
-            Console.WriteLine("Inserisci il codice della canzone da eliminare");
+            WriteLineDelegate writeLine = Console.WriteLine;
+            writeLine("Inserisci il codice della canzone da eliminare");
             codElimina = int.Parse(Console.ReadLine());
         }
 
         public static void Modifica()
         {
-            Console.WriteLine("Inserisci il codice della canzone da modificare");
+            WriteLineDelegate writeLine = Console.WriteLine;
+            writeLine("Inserisci il codice della canzone da modificare");
             codModifica = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Cosa vuoi modificare? Titolo(t) - Artista(a) - Anno di pubblicazione(y) ?");
+            writeLine("Cosa vuoi modificare? Titolo(t) - Artista(a) - Anno di pubblicazione(y) ?");
             sceltaModifica = Console.ReadLine();
 
             if (sceltaModifica == "t")
             {
-                Console.WriteLine("Inserisci come vuoi modificare il titolo");
+                writeLine("Inserisci come vuoi modificare il titolo");
                 titoloModificato = Console.ReadLine();
-                Console.WriteLine("Modifica effettuata!");
+                writeLine("Modifica effettuata!");
             }
             else if (sceltaModifica == "a")
             {
-                Console.WriteLine("Inserisci come vuoi modificare l'artista");
+                writeLine("Inserisci come vuoi modificare l'artista");
                 artistaModificato = Console.ReadLine();
-                Console.WriteLine("Modifica effettuata!");
+                writeLine("Modifica effettuata!");
             }
             else if (sceltaModifica == "y")
             {
-                Console.WriteLine("Inserisci come vuoi modificare l'anno di pubblicazione");
+                writeLine("Inserisci come vuoi modificare l'anno di pubblicazione");
                 annoModificato = int.Parse(Console.ReadLine());
-                Console.WriteLine("Modifica effettuata!");
+                writeLine("Modifica effettuata!");
             }
             else
             {
-                Console.WriteLine("Modifica fallita, riprova!");
+                writeLine("Modifica fallita, riprova!");
             }
         }
     }
