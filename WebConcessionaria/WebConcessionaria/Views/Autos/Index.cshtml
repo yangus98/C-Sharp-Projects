@@ -1,0 +1,77 @@
+﻿@using ReflectionIT.Mvc.Paging
+@addTagHelper *, ReflectionIT.Mvc.Paging
+@model PagingList<WebConcessionaria.Models.Auto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <button class="create"><a asp-action="Create">Create New</a></button>
+</p>
+
+<form asp-action="Index" method="get">
+    <div class="row">
+        <div class="col">
+            <input type="text" class="form-control" placeholder="inserisci modello..." name="modello">
+        </div>
+        <div class="col">
+            <input type="number" class="form-control" placeholder="inserisci prezzo da.." name="prezzo_da">
+        </div>
+        <div class="col">
+            <input type="number" class="form-control" placeholder="a..." name="prezzo_a">
+        </div>
+        <div class="col">
+            <input type="submit" value="Cerca" class="btn-primary btn-primary" />
+        </div>
+    </div>
+</form>
+<br />
+<nav aria-label="Esempio paginazione auto">
+    <vc:pager paging-list="@Model"></vc:pager>
+</nav>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CasaProduttrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Modello)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prezzo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AnnoUscita)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CasaProduttrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Modello)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prezzo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AnnoUscita)
+            </td>
+            <td>
+                <button class="edit"><a asp-action="Edit" asp-route-id="@item.Id">Edit</a></button>
+                <button class="details"><a asp-action="Details" asp-route-id="@item.Id">Details</a></button>
+                <button class="delete"><a asp-action="Delete" asp-route-id="@item.Id">Delete</a></button>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

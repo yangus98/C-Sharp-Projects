@@ -1,0 +1,49 @@
+html {
+    font-size: 14px;
+    background-color: lightsteelblue;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    background-color: lightsteelblue;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: lightsteelblue;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: black;
+}
+
+.create{
+    background-color: greenyellow;
+    border-color: greenyellow;
+}
+
+.edit, .details{
+    background-color: green;
+    border-color: green;
+}
+
+.delete{
+    background-color: darkred;
+    border-color:darkred;
+}
+
+.navbar-collapse, .navbar-brand {
+    background-color: lightsteelblue;
+}
